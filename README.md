@@ -1,0 +1,5 @@
+As part of my personal interesting in sustainability, the environment and data science, playing around with this dataset allowed me to generate many insights about the trends surrounding global food production. This is the first draft and attempt at creating these visualization tools. I engaged in a lot of research to identify key patterns like "Crop Substitution" or important economic flags like over-reliance. Many of the trends aren't too specific to each country, which is an area I intend to work on in further projects.
+
+In following projects and drafts, I intend to zero in on some trends which I thought were valuable to each country, spanning new datasets, libraries as well as applications like dash (to make a more interactive app and interface). This project took me about a few weeks and it was mostly about re-learning computational thinking and exploring the potential behind data.
+
+Come with me to connect more of my learnings with real-life datasets, generating key observations and communicating them in valuable ways!
